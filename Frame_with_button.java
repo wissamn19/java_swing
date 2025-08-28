@@ -24,9 +24,6 @@ public class frame2 {
 			B1.setBounds(500,150,100,45);
 			F.add(B1);
 			
-			
-			
-			
-	     
 	}
 }
+
