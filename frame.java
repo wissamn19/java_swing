@@ -224,8 +224,8 @@ public static void main(String[]  args) {
 	    }
 	    */
 	
-  /*	 public static void main(String[] args) {
-		 
+public static void main(String[] args) {
+		   	 
 		  JFrame F = new JFrame("Afficher/Masquer Mot de Passe");
 	        F.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	        F.setSize(400, 150);
@@ -265,7 +265,6 @@ public static void main(String[]  args) {
 	        F.setVisible(true);
 	        }}
 	
-	*/
 	
 	
 	
@@ -275,12 +274,8 @@ public static void main(String[]  args) {
 	
 	
 	
-	public static void main(String[]  args) {
 	
-    	 
-		
-}
-}  
+
     
 
 
@@ -295,3 +290,4 @@ public static void main(String[]  args) {
         
         
       
+
